@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/memorama/static/css/main.20480e8b.chunk.css",
+    "main.js": "/memorama/static/js/main.9902d3ea.chunk.js",
+    "main.js.map": "/memorama/static/js/main.9902d3ea.chunk.js.map",
+    "runtime-main.js": "/memorama/static/js/runtime-main.481f08cd.js",
+    "runtime-main.js.map": "/memorama/static/js/runtime-main.481f08cd.js.map",
+    "static/css/2.2b519876.chunk.css": "/memorama/static/css/2.2b519876.chunk.css",
+    "static/js/2.c65fd74e.chunk.js": "/memorama/static/js/2.c65fd74e.chunk.js",
+    "static/js/2.c65fd74e.chunk.js.map": "/memorama/static/js/2.c65fd74e.chunk.js.map",
+    "static/js/3.f42da5be.chunk.js": "/memorama/static/js/3.f42da5be.chunk.js",
+    "static/js/3.f42da5be.chunk.js.map": "/memorama/static/js/3.f42da5be.chunk.js.map",
+    "index.html": "/memorama/index.html",
+    "static/css/2.2b519876.chunk.css.map": "/memorama/static/css/2.2b519876.chunk.css.map",
+    "static/css/main.20480e8b.chunk.css.map": "/memorama/static/css/main.20480e8b.chunk.css.map",
+    "static/js/2.c65fd74e.chunk.js.LICENSE.txt": "/memorama/static/js/2.c65fd74e.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/memorama/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.481f08cd.js",
+    "static/css/2.2b519876.chunk.css",
+    "static/js/2.c65fd74e.chunk.js",
+    "static/css/main.20480e8b.chunk.css",
+    "static/js/main.9902d3ea.chunk.js"
+  ]
+}
